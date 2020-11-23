@@ -9,6 +9,8 @@ Création d'un site statique grace à [Hugo](https://gohugo.io/).
 # Choix du thème
 Choix du thème [Codex](https://themes.gohugo.io/hugo-theme-codex/).
 ![](https://d33wubrfki0l68.cloudfront.net/3c9146b977bbef91f92600d0669a7548b764e7e0/360fe/hugo-theme-codex/screenshot-hugo-theme-codex_hu2e503dcb16114be293da4f05196c31ac_32296_1500x1000_fill_catmullrom_top_2.png)
+`git submodule add https://github.com/jakewies/hugo-theme-codex.git themes/hugo-theme-codex`
+
 ## Pourquoi ?
 * Site minimaliste
 * Adapté pour un blog
