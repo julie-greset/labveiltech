@@ -5,4 +5,10 @@ handle: "LabVeilTech"
 ---
 
 ### A propos de moi
-Je suis actuellement étudiante en Ingénierie des Médias à la HEIG-VD. Je suis passionée par l'UX/UI Design et je compte bien en faire mon métier
+Je suis actuellement étudiante en Ingénierie des Médias à la HEIG-VD. Passionée par l'UX/UI Design, je compte bien en faire mon métier.
+
+### Mon Ikigai
+Je pense que le domaine qui m'intéresse actuellement le plus dans l'expérience utilisateur, c'est l'User Interfae. J'aime beaucoup concevoir des interfaces digitales, je le vois comme de la créativité "cadrée" car basée sur de la recherche et des faits. On ne va pas placer un bouton ici parce que c'est plus joli, on va le placer ici parce qu'il va améliorer l'expérience utilisateur.
+
+Ayant toujours eu un côté artistique mais n'ayant jamais vraiment réussi à le développer, je trouve parfaitement mon compte dans l'UX/UI car tout et réfléchi et doit servir un but.
+
