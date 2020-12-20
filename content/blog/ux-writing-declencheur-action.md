@@ -47,3 +47,6 @@ Elles poussent l’utilisateur·rice à suivre la troupe.
 * Prix officiels et bonne critique
 * Médias sociaux
 * Références : logos et noms des clients connus ayant déjà utilisé le produit / service
+
+## Sources
+YIFRAH, Kinneret. *UX Writing : Le guide de la microcopie*. Dunod, 2020. 256 pages.
