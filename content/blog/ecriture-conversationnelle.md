@@ -1,11 +1,11 @@
 ---
 title: "L'écriture conversationnelle"
-date: 2020-06-04T09:19:29-04:00
+date: 2020-11-23T09:19:29-04:00
 slug: "ecriture-conversationnelle"
 description: "L'écriture conversationnelle, tirée du livre : UX Writing par Kinneret Yifrah (2020)"
 keywords: []
 draft: false
-tags: ["ux-writing", "microcopy", "conversational-writing"]
+tags: ["ux-writing", "microcopie", "ecriture-conversationnelle"]
 math: false
 toc: true
 ---

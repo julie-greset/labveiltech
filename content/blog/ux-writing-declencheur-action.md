@@ -1,16 +1,17 @@
 ---
 title: "L'UX Writing comme déclencheur d'action"
-date: 2020-06-04T09:19:29-04:00
+date: 2020-12-01T09:19:29-04:00
 slug: "ux-writing-declencheur-action"
 description: "L'UX Writing comme déclencheur d'action, tiré du livre : UX Writing par Kinneret Yifrah (2020)"
 keywords: []
 draft: false
-tags: ["ux-writing", "microcopy"]
+tags: ["ux-writing", "microcopie"]
 math: false
 toc: true
 ---
 
 ## Parlez de ce qu’il y a à gagner, pas de ce qu’il faut faire
+
 * Une vaste gamme d’outils pour gérer correctement vos finances
     * **>> Finissez-en avec vos dettes**
     * **>> Mettez vos dettes derrière vous une bonne fois pour toutes**

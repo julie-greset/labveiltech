@@ -5,7 +5,7 @@ slug: "ux-writing-links"
 description: "UX Writing Links"
 keywords: [""]
 draft: false
-tags: ["ux-writing", "thank-you-page", "404-pages", "placeholders", "content-style-guide"]
+tags: ["ux-writing", "page-404", "placeholder", "content-style-guide"]
 math: false
 toc: true
 ---

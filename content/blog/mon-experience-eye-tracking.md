@@ -5,7 +5,7 @@ slug: "mon-experience-avec-eye-tracking"
 description: "Mon expérience avec l'eye tracking lors d'un cours de Laboratoire UX dispensé à la HEIG-VD (Yverdon)."
 keywords: []
 draft: false
-tags: ["eye-tracking", "user-research"]
+tags: ["eye-tracking", "recherche-utilisateur"]
 math: false
 toc: true
 ---
